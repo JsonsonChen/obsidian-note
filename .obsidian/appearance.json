@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

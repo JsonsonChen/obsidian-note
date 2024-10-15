@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "c07f39d7c8f604d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "346b4b8dc73518a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda494496981d97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29448a9df3af2115",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "系统分析师/系统分析师计划看板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5143d8817045887a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f651116af431343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f85f6af6bc6dff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "952c1abc91eeb00c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b795583c846e27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "31c19bac02bfcd8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbcaef97d107b680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61687db2235243aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-09-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de4d3bb9e77c48e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-09-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "475afe7b39310884",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9889680fdd1c92c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-09-05.md"
+              }
+            }
+          },
+          {
+            "id": "ca999c36ff826d35",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "095cc1b7b2d26f17",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b261d2bc9d339976",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f71e35d75a352f39",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ff51c3ae842fa64",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "190e591449251764",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-day-planner:Timeline": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-omnivore:Omnivore": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "eda494496981d97d",
+  "lastOpenFiles": [
+    "知识点.md",
+    "系统分析师/系统分析师计划看板.md",
+    "2024-09-05.md",
+    "kanban.md",
+    "未命名.canvas",
+    "202409052122.md",
+    "系统分析师",
+    "插件化/插件化.md",
+    "Android 引用/Pasted image 20240415221140.png",
+    "插件化",
+    "Android Navigation 导致内存泄露问题.md",
+    "Android 引用",
+    "未命名.md",
+    "Android 引用/Android 强引用、软引用、弱引用和虚引用的使用和正确理解.md",
+    "Android 引用/Pasted image 20240415221355.png",
+    "Android 引用/Pasted image 20240415221333.png",
+    "Android 引用/Pasted image 20240415221241.png",
+    "Android 引用/Pasted image 20240415221214.png",
+    "OpenGL ES 2.0游戏开发（上卷）：基础技术和典型案例.md",
+    "原则.md",
+    "芯片简史.md",
+    "Android高性能编程.md",
+    "菜根谭.md",
+    "2024-03-29.md",
+    "Excalidraw/Drawing 2024-03-31 10.01.57.excalidraw.md",
+    "Android全埋点解决方案.md",
+    "Excalidraw",
+    "痛点：挖掘小数据满足用户需求.md",
+    "一年顶十年.md",
+    "2024-03-26.md",
+    "2024-03-25.md",
+    "结构思考力.md",
+    "2024-03-30.md",
+    "深入理解Android自动化测试.md",
+    "微积分的力量.md",
+    "Android技术内幕（系统卷）.md",
+    "obsidian-proxy-github.zip"
+  ]
+}
