@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10fc4bc77b972210",
+        "id": "0a56a7c125005a22",
         "type": "tabs",
         "children": [
           {
-            "id": "48e83bfb8fee685e",
+            "id": "684a2d6d51df55e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -245,8 +245,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "48e83bfb8fee685e",
+  "active": "684a2d6d51df55e1",
   "lastOpenFiles": [
+    "计划/DayPlan/2024-11",
+    "计划/DayPlan/2024-10",
+    "计划/DayPlan",
     "未命名.canvas",
     "2024-10-20.md",
     "总结/知识点.md",
@@ -265,9 +268,7 @@
     "总结",
     "kanban.md",
     "202409052122.md",
-    "计划/学习计划/系统分析师",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221140.png",
-    "总结/编程知识点总结/插件化",
     "未命名.md",
     "知识库/编程/Java 引用/Android 引用/Android 强引用、软引用、弱引用和虚引用的使用和正确理解.md",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221355.png",
