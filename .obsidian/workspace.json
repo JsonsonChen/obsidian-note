@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a56a7c125005a22",
+        "id": "3f9e8dd4369afba6",
         "type": "tabs",
         "children": [
           {
-            "id": "684a2d6d51df55e1",
+            "id": "ddd364a388ff1363",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -245,8 +245,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "684a2d6d51df55e1",
+  "active": "3e27fe53c8decce5",
   "lastOpenFiles": [
+    "202410201451.md",
+    "计划/DayPlan/2024-10/2024-10-21.md",
     "计划/DayPlan/2024-11",
     "计划/DayPlan/2024-10",
     "计划/DayPlan",
@@ -265,7 +267,6 @@
     "总结/编程知识点总结",
     "计划/学习计划/系统分析师/系统分析师计划看板.md",
     "总结/日总结",
-    "总结",
     "kanban.md",
     "202409052122.md",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221140.png",
@@ -288,7 +289,6 @@
     "2024-03-26.md",
     "2024-03-25.md",
     "结构思考力.md",
-    "2024-03-30.md",
-    "深入理解Android自动化测试.md"
+    "2024-03-30.md"
   ]
 }
