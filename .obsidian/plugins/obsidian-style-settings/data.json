@@ -49,5 +49,6 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light",
   "Appearance-light@@mod-right-split-background-select-light": "mod-right-split-background-secondary-light",
-  "Mobile@@card-layout-pad-open": false
+  "Mobile@@card-layout-pad-open": false,
+  "Appearance-light@@accent-light": "#83835D"
 }
