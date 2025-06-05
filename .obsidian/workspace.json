@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9e8dd4369afba6",
+        "id": "b33305b649662f67",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd364a388ff1363",
+            "id": "9d6617dcc4fe338d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知识库/编程/Android 广播原理.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Android 广播原理"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 272.5
   },
   "right": {
     "id": "31c19bac02bfcd8d",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "知识库/编程/Android Dynamic Performance Framework (ADPF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "Android Dynamic Performance Framework (ADPF) 的反向链接列表"
             }
           },
           {
@@ -108,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "知识库/编程/Android Dynamic Performance Framework (ADPF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Android Dynamic Performance Framework (ADPF) 的出链列表"
             }
           },
           {
@@ -135,44 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
-              },
-              "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
-            "id": "ca999c36ff826d35",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
+                "file": "知识库/编程/Android Dynamic Performance Framework (ADPF).md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "095cc1b7b2d26f17",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
-            "id": "b261d2bc9d339976",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "icon": "lucide-list",
+              "title": "Android Dynamic Performance Framework (ADPF) 的大纲"
             }
           },
           {
@@ -186,27 +160,31 @@
             }
           },
           {
-            "id": "7ff51c3ae842fa64",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
             "id": "600002c4eee26f10",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections Files"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
-            "id": "3e27fe53c8decce5",
+            "id": "db6a7b721f508f35",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7573fcb1dcbd8ca2",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -216,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,7 +211,6 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-day-planner:Timeline": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "templater-obsidian:Templater": false,
@@ -241,54 +218,53 @@
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "float-search:Search Obsidian In Modal": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-omnivore:Omnivore": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "3e27fe53c8decce5",
+  "active": "7573fcb1dcbd8ca2",
   "lastOpenFiles": [
-    "202410201451.md",
-    "计划/DayPlan/2024-10/2024-10-21.md",
-    "计划/DayPlan/2024-11",
-    "计划/DayPlan/2024-10",
-    "计划/DayPlan",
-    "未命名.canvas",
+    "知识库/编程/问题解决集锦/Zygote 被 堵塞导致无法创建进程.md",
+    "知识库/编程/Android 广播原理.md",
+    "知识库/编程/问题解决集锦/AMS ZygoteProcess 与 Zygote 通信 Socket没有返回导致应用没法打开.md",
+    "计划/学习计划/Andriod Hal 层对接/人脸解锁功能.md",
+    "知识库/编程/Android 的构成.md",
+    "知识库/编程/问题解决集锦",
+    "知识库/编程/Android 高负载模拟-Linux stress.md",
+    "知识库/编程/Android Dynamic Performance Framework (ADPF).md",
+    "diary.md",
+    "Excalidraw/Drawing 2025-04-05 22.46.42.excalidraw.md",
+    "Excalidraw",
+    "计划/学习计划/Android系统bin文件开发/bin文件开发看板.md",
+    "计划/学习计划/单元测试",
+    "计划/学习计划/嵌入设备搭建",
+    "计划/学习计划/AI",
+    "计划/学习计划/Android性能优化",
+    "计划/学习计划/Android系统流程",
     "2024-10-20.md",
+    "计划/DayPlan/2024-10/2024-10-21.md",
+    "画框架设计文档图.md",
+    "[人脸解锁功能.md",
+    "计划/学习计划/系统分析师/系统分析师计划看板.md",
+    "知识库/编程/Android 触控实现原理.md",
+    "计划/学习计划/Android系统bin文件开发",
+    "计划/学习计划/DeepSeek 搭建本地知识库",
+    "计划/学习计划/Andriod Hal 层对接",
+    "总结/成长之路.md",
     "总结/知识点.md",
+    "202410201451.md",
+    "未命名.canvas",
     "总结/编程知识点总结/插件化/插件化.md",
-    "知识库/编程",
-    "知识库",
-    "知识库/编程/Java 引用",
     "总结/编程知识点总结/未命名.canvas",
-    "计划/学习计划",
-    "计划",
     "2024-09-05.md",
     "知识库/编程/Android Navigation 导致内存泄露问题.md",
-    "总结/编程知识点总结",
-    "计划/学习计划/系统分析师/系统分析师计划看板.md",
-    "总结/日总结",
     "kanban.md",
     "202409052122.md",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221140.png",
-    "未命名.md",
     "知识库/编程/Java 引用/Android 引用/Android 强引用、软引用、弱引用和虚引用的使用和正确理解.md",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221355.png",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221333.png",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221241.png",
     "知识库/编程/Java 引用/Android 引用/Pasted image 20240415221214.png",
-    "OpenGL ES 2.0游戏开发（上卷）：基础技术和典型案例.md",
-    "原则.md",
-    "芯片简史.md",
-    "Android高性能编程.md",
-    "菜根谭.md",
-    "2024-03-29.md",
-    "Excalidraw/Drawing 2024-03-31 10.01.57.excalidraw.md",
-    "Android全埋点解决方案.md",
-    "痛点：挖掘小数据满足用户需求.md",
-    "一年顶十年.md",
-    "2024-03-26.md",
-    "2024-03-25.md",
-    "结构思考力.md",
-    "2024-03-30.md"
+    "OpenGL ES 2.0游戏开发（上卷）：基础技术和典型案例.md"
   ]
 }

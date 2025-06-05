@@ -1,8 +1,6 @@
 [
-  "obsidian-day-planner",
   "obsidian-kanban",
   "pdf-plus",
-  "obsidian-quiet-outline",
   "smart-connections",
   "obsidian-tasks-plugin",
   "templater-obsidian",
@@ -15,6 +13,5 @@
   "obsidian-git",
   "obsidian-omnivore",
   "obsidian-style-settings",
-  "tasks-calendar-wrapper",
-  "pomodoro-timer"
+  "tasks-calendar-wrapper"
 ]
